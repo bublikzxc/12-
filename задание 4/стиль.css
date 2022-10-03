@@ -1,0 +1,77 @@
+<style>
+block{
+}
+#pctr{
+width: 100px;
+float: left;
+}
+#pctr2{
+width: 250px;
+float: right;
+border: 2px solid orange; 
+border-radius: 20px;
+}
+
+h1{
+font-family: ComicSansMS;
+padding: 20px;
+color: green;
+}
+a{
+font-family: ComicSansMS;
+color: green;
+}
+a:hover{
+color: #ecf96a;
+}
+#shapka{
+background-color: yellow;
+width:100%;
+box-sizing: border-box;
+border: 1px solid gray;
+display: inline-block;
+}
+#silki{
+padding: 10px 10px;
+background-color: #ecf96a;
+height: 70%;
+width:19%;
+box-sizing: border-box;
+display: inline-block;
+float: left;
+}
+#pustoe{
+height: 3px;
+width:100%;
+box-sizing: border-box;
+display: inline-block;
+clear:both;
+}
+hr{
+background-color: red;
+height:3px;
+border-radius:10px;
+}
+#clr{
+clear:both;
+}
+#liniya{
+background-color: red;
+height: 100px;
+width:5px;
+box-sizing: border-box;
+display: inline-block;
+float: left;
+}
+#kub{
+font-family: Arial;
+width: 80%;
+height: 70%;
+display: inline-block;
+box-sizing: border-box;
+float: right;
+}
+#otsp{
+padding: 5px;
+}
+</style>
