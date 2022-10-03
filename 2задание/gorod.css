@@ -1,0 +1,38 @@
+<style>
+raspol{
+}
+#leviy{
+top: 20px;
+left: 20px;
+margin-left:20%;
+float: left;
+}
+#praviy{
+background: red;
+top: 20px;
+margin-right: 20%;
+float: right;
+}
+#cntr{
+margin-left: 33%;
+margin-left: 33%;
+top: 20px;
+width: 500px;
+}
+#cntr2{
+margin-left: 33%;
+margin-left: 33%;
+transform: translateY(-310px);
+top: 20px;
+width: 200px;
+}
+#nomer{
+color:green;
+height:100px;
+width:100px;
+box-sizing:border-box;
+
+display: inline-block;
+transform: translate(-300px,-180px);
+}
+</style>
