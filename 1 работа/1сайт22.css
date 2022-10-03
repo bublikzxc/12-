@@ -1,0 +1,36 @@
+<style>
+cvet{
+}
+oblast{
+}
+#krug{
+color: #2772ff;
+width: 50px;
+border: 2px solid red;
+border-radius: 20px;
+}
+#krasn{
+color: red;
+}
+#szelen{
+color: #40ff40;
+}
+#siniy{
+color: #2772ff;
+}
+#tzelen{
+color: #00cc00;
+}
+#orang{
+color:#ff9116;
+}
+#tsiniy{
+color:#0000d2;
+}
+#dzelen{
+color: #013220
+}
+img{
+float: right;
+}
+</style>
